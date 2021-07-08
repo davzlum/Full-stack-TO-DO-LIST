@@ -1,5 +1,5 @@
 # Full-stack-TO-DO-LIST
-Full-stack App for To Do List build with react, redux, mongo, express, mongoose, node.js
+Full-stack App for To Do List build with react, redux, mongo, express, mongoose, node.js. Everything fully tested with Jest and configured with eslint.
 
 ## The App
 
