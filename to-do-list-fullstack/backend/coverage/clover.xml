@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1620914603222" clover="3.2.0">
+  <project timestamp="1620914603222" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5" elements="39" coveredelements="39" complexity="0" loc="34" ncloc="34" packages="2" files="2" classes="2"/>
+    <package name="controllers">
+      <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="tasksController.js" path="/Users/davidvazquez/Documents/GitHub/skylab.repository/skylab-bootcamp-202104-bcn/david-vazquez/challenges/to-do-list-fullstack/backend/src/controllers/tasksController.js">
+        <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="model">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="taskModel.js" path="/Users/davidvazquez/Documents/GitHub/skylab.repository/skylab-bootcamp-202104-bcn/david-vazquez/challenges/to-do-list-fullstack/backend/src/model/taskModel.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
